@@ -9,10 +9,6 @@
 
 <script>
 require('vue2-animate/dist/vue2-animate.min.css');
-// Each Message Item expects a `message` object.
-// Each message should have the following properties:
-// message.type - A string indicating the type. Either "info", "success", or "error"
-// message.text - The text of the message. Text only, no HTML formatting.
 
 export default {
   name: 'MessageContainer',
